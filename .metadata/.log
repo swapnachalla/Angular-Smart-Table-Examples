@@ -1,0 +1,99 @@
+!SESSION 2015-05-15 10:25:52.289 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2015-05-15 10:32:02.547
+!MESSAGE No search provider was registed. Tasks search is not available.
+
+!ENTRY org.eclipse.jface 2 0 2015-05-15 10:32:07.432
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-15 10:32:07.432
+!MESSAGE A conflict occurred for CTRL+F9:
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.activateTask,Activate Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(RunSQLAction,Run SQL,
+		Run SQL,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-15 10:32:07.432
+!MESSAGE A conflict occurred for CTRL+SHIFT+U:
+Binding(CTRL+SHIFT+U,
+	ParameterizedCommand(Command(com.aptana.ide.syncing.ui.commands.upload,Upload...,
+		,
+		Category(com.aptana.ide.syncing.ui.commands.category,File Transfer,File Transfer Commands,true),
+		com.aptana.ide.syncing.ui.handlers.UploadHandler,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+U,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.search.occurrences.in.file.quickMenu,Show Occurrences in File Quick Menu,
+		Shows the Occurrences in File quick menu,
+		Category(org.eclipse.search.ui.category.search,Search,Search command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.569
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.605
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.626
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.645
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.665
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.730
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.761
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.796
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.839
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.865
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-05-15 10:32:14.926
+!MESSAGE Installed snippet library: C:\Users\schalla\AppData\Local\MyEclipse Bling Edition\MyEclipse Bling Edition 10\configuration\org.eclipse.osgi\bundles\222\1\.cp\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 10:32:45.679
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 10:32:45.681
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-cvs does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 10:32:45.682
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 10:32:45.683
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 10:32:45.684
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.maven-runtime-3.0.3 does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-15 10:35:39.893
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob

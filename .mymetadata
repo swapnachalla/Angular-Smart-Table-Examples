@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringAngularTable"
+  id="myeclipse.1431486003550"
+  context-root="/SpringAngularTable"
+  j2ee-spec="6.0"
+  archive="SpringAngularTable.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
